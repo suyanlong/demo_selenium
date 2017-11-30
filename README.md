@@ -1,2 +1,8 @@
 # demo_selenium
-selenium demo
+
+###安装依赖
+```
+sh requirements.sh
+
+```
+
